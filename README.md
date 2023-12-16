@@ -1,4 +1,4 @@
-Welcome to "Fraud Detection Project".
+## Welcome to "Fraud Detection Project".
 
 We will implement Logistic Regression, Random Forest, XGBoost, and Neural Network algorithms and Unbalanced Data Techniques. Also visualize performances of the models using Seaborn, Matplotlib, and other libraries in a variety of ways.
 
